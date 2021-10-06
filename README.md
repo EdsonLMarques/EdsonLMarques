@@ -1,4 +1,4 @@
-### Hello Everione 👋
+### Hello Everyone 👋
 
 My name is Edson and a really like to develop new ideias using my programing skills.
 
