@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-My name is Edson and a really like to develop new ideias using my programing skills.
+My name is Edson, I'm an engineer, graduated in Control and Automation from Inatel (Brazil). Currently, I'm pursuing an MBA in Tech Business Administration, and I love developing and exploring new projects.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
